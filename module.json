@@ -90,6 +90,18 @@
       "label": "Talentos",
       "path": "packs/feats",
       "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "backgrounds",
+      "label": "Antecedentes",
+      "path": "packs/backgrounds",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -98,5 +110,8 @@
       "flags": {}
     }
   ],
+  "url": "https://github.com/lucasdlb17/alternate-character-options",
+  "download": "https://github.com/lucasdlb17/alternate-character-options/archive/1.0.0.zip",
+  "manifest": "https://github.com/lucasdlb17/alternate-character-options/releases/latest/download/module.json",
   "description": ""
 }
