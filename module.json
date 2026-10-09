@@ -113,5 +113,14 @@
   "url": "https://github.com/lucasdlb17/alternate-character-options",
   "download": "https://github.com/lucasdlb17/alternate-character-options/archive/1.0.0.zip",
   "manifest": "https://github.com/lucasdlb17/alternate-character-options/releases/latest/download/module.json",
+  "authors": [
+    {
+      "name": "lucasdlb17",
+      "email": "lucasdiaslimabraga@hotmail.com",
+      "url": "https://github.com/lucasdlb17/alternate-character-options",
+      "discord": "lucasdlb17",
+      "flags": {}
+    }
+  ],
   "description": ""
 }
